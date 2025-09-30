@@ -1,4 +1,4 @@
-package ntnu.idi.oving4.ui.theme
+package ntnu.idi.oving7.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

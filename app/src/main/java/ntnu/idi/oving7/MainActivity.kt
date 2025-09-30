@@ -1,4 +1,4 @@
-package ntnu.idi.oving4
+package ntnu.idi.oving7
 
 import android.app.Activity
 import android.os.Bundle

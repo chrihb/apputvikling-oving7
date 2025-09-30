@@ -1,6 +1,5 @@
-package ntnu.idi.oving4.ui.theme
+package ntnu.idi.oving7.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

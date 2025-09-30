@@ -1,4 +1,4 @@
-package ntnu.idi.oving4.ui.theme
+package ntnu.idi.oving7.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
