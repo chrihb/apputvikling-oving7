@@ -1,0 +1,49 @@
+{
+	"movies": [
+		{
+			"title": "Interstellar",
+			"director": "Christopher Nolan",
+			"actors": [
+				"Matthew McConaughey",
+				"Anne Hathaway",
+				"Jessica Chastain"
+			]
+		},
+		{
+			"title": "Django Unchained",
+			"director": "Quentin Tarantino",
+			"actors": [
+				"Jamie Foxx",
+				"Christoph Waltz",
+				"Leonardo DiCaprio"
+			]
+		},
+		{
+			"title": "Star Wars: Episode III – Revenge of the Sith",
+			"director": "George Lucas",
+			"actors": [
+				"Ewan McGregor",
+				"Natalie Portman",
+				"Hayden Christensen"
+			]
+		},
+		{
+			"title": "Parasite",
+			"director": "Bong Joon-ho",
+			"actors": [
+				"Kang-ho Song",
+				"Sun-kyun Lee",
+				"Yeo-jeong Jo"
+			]
+		},
+		{
+			"title": "Inception",
+			"director": "Christopher Nolan",
+			"actors": [
+				"Leonardo DiCaprio",
+				"Joseph Gordon-Levitt",
+				"Ellen Page"
+			]
+		}
+	]
+}
