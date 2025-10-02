@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bg_colors">
+        <item>Hvit</item>
+        <item>Blå</item>
+        <item>Grønn</item>
+    </string-array>
+    <string-array name="bg_values">
+        <item>#FFFFFF</item>
+        <item>#2196F3</item>
+        <item>#4CAF50</item>
+    </string-array>
+
+</resources>
